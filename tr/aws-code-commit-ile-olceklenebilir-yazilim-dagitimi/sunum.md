@@ -1,27 +1,35 @@
-Hakkımda
-===
-- Advancity (a.k.a. CAZ Bilişim) kurucu ortak
-- Yazılımcı
-- @xaferel :sunglasses:
+<!-- 
+$theme: gaia
+-->
+
+	
+## AWS Code Commit ile Ölçeklenebilir Yazılım Dağıtımı
+#### Zafer Gürel 
+###### github: [@zafergurel](https://github.com/zafergurel) - twitter: [@xaferel](https://twitter.com/xaferel)
 
 ---
+
+<!--
+page_number: true
+-->
 
 AWS CodeCommit Hakkında
 ===
 
-# Features
-
 - Ölçeklenebilir ve sağlam kod kontrol sistemi
-- Sınırsız Git deposu oluşturabilme
+- ==**Sınırsız**== Git deposu oluşturabilme
 - Mevcut Git araçları ile uyumlu
-- 5 **aktif** kullanıcıya kadar ücretsiz
+- ==**5 aktif**== kullanıcıya kadar ücretsiz
 - Daha fazla bilgi https://aws.amazon.com/codecommit/
+
+
+
 
 ---
 Getone.video
 ===
-- Ölçeklenebilir tarayıcı kayıt otomasyon servisi :computer: :movie_camera:
-- Perculus oturumlarının tek videoya çevrilmesi için geliştirildi
+- Ölçeklenebilir tarayıcı kayıt otomasyonu :computer: :movie_camera:
+- [Perculus](https://www.perculus.com) oturumlarının tek videoya çevrilmesi için
 - AWS EC2 üzerinde çalışır 
 - Şu anda herkese açık bir bulut servisi :cloud::cloud::cloud:
 ![](images/getone-video.png)
@@ -41,17 +49,17 @@ Sorun
 
 İhtiyaç Analizi
 ===
-- Çok az zaman kaybı
+- Zaman kaybı olmamalı
 - Çok kolay olmalı
 - Ekstra kişiye ihtiyaç olmamalı :smiley:
 
 ---
 
-Çözüm 1 - AWS AMI Çoklama
+Çözüm 1 - AWS AMI
 ===
 
 - WinSCP ile tek sunucu güncelle
-- AWS AMI oluştur
+- AWS Console'da AMI (Amazon Machine Image) oluştur
 - AMI ile sunucu oluştur
 - Eski sunucuları kaldır
 - :unamused: Manuel işlem çok, hataya açık, zaman kaybı
@@ -73,3 +81,8 @@ Neden AWS CodeCommit
 - Her sunucu açıldığında kendini günceller
 - AWS EC2 kullanıldığı için CodeCommit tercih edildi
 - Başka bir Git sistemi de (Github, Bitbucket vs. olabilir)
+
+---
+# Biraz da kod görelim...
+---
+# Teşekkürler :sunglasses:
