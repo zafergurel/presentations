@@ -1,0 +1,1 @@
+Sunum resimleri bu dizinde.
