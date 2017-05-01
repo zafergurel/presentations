@@ -1,4 +1,4 @@
-*** AWS CodeCommit Hakkında
+### AWS CodeCommit Hakkında
 AWS CodeCommit, organizasyonların sınırsız sayıda Git deposu oluşturabilecekleri bir kod kontrol sistemidir.
 
 Bir AWS bulut servisi olarak kullanılan bu servis; ölçeklenebilir, sağlam ve güvenli yapısının yanısıra mevcut Git araçları ile kullanılabilmektedir.
